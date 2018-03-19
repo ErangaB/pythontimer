@@ -1,0 +1,8 @@
+*. UI is bit big & unscalable
+*. Can edit time
+*. Can delete time
+*. Started & stopped times add to the database seperately
+*. Log file is created for login, logoff and timer start/stop
+*. Include .exe file
+*. include status bar
+*. Include sign out

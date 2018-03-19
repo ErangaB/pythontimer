@@ -1,0 +1,5 @@
+Appjar - python -m pip install appjar --upgrade
+
+MySQL Connector - python -m pip install mysql-connector==2.1.4
+
+cx_Freeze - python -m pip install cx_Freeze --upgrade
